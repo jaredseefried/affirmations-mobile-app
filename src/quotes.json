@@ -1,0 +1,37 @@
+[
+  {
+    "title": "When you can't do something smart, do something right.",
+    "text": "Shepard Book(Firefly & Serenity)",
+    "image": {
+      "uri": "https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "title": "If the world was perfect, it wouldn't be.",
+    "text": "Yogi Barra",
+    "image": {
+      "uri": "https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  },
+  {
+    "title": "Do or do not, there is no try",
+    "text": "Yoda",
+    "image": {
+      "uri": "https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "title": "Don’t let anyone ever make you feel like you don’t deserve what you want.",
+    "text": "Heath Ledgar",
+    "image": {
+      "uri": "https://images.pexels.com/photos/38537/woodland-road-falling-leaf-natural-38537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "title": "Just because someone stumbles and loses their path, doesn’t mean they’re lost forever.",
+    "text": "Professor X",
+    "image": {
+      "uri": "https://images.pexels.com/photos/544268/pexels-photo-544268.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  }
+]
